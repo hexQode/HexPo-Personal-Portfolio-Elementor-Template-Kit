@@ -1,5 +1,5 @@
 
-![Logo](https://hexqode.com/wp-content/uploads/2024/11/hexpo-free-personal-portfolio-elementor-template-kit.jpg)
+![Preview Image](https://cdn.lemonsqueezy.com/media/28005/b3203070-ed14-4930-9727-519ec31b5a0a.jpg)
 
 
 # Hexpo – Personal Portfolio Free Elementor Template Kit
